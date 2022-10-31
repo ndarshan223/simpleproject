@@ -1,2 +1,3 @@
 # simpleproject
-hello this is shikshan!
+hello this simple folder
+
