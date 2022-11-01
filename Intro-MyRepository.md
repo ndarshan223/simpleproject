@@ -1,3 +1,6 @@
-# **Simpleproject**
-Hi using the repository for Testing!
-Would be testing out more features of GitHub and its Advanced usage.
+#!/bin/bash
+
+echo " enter name : "
+read name
+echo " enter name : $name "
+
