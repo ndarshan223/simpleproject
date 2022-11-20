@@ -1,2 +1,5 @@
-# simpleproject
-this is a change in readme file
+
+this change has done by Santhosh C L
+
+#!/bin/sh
+echo "Hello world"
